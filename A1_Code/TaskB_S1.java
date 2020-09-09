@@ -2,6 +2,12 @@ import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.*;
 
+
+/*
+@author Daniel Bound, 2019
+*/
+
+
 class TaskB_S1 {
 	public static void main(String[] args) throws FileNotFoundException, IOException{
 		
