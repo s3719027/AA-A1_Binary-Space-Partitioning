@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/*
+@author Daniel Bound, 2019
+*/
+
 public class DataGenerator {
 		
 	private static int NUM_NODES = 100000;
